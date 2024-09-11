@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        'main-fon': '#020B14'
+        'main-fon': '#020B14',
+        'button-color': '#00A1E7'
       }
     }
   },

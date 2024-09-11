@@ -13,5 +13,6 @@ defineProps({
       <b class="text-3xl">{{ title }}</b>
       <p class="text-base mt-4">{{ textContent }}</p>
     </div>
+    <slot></slot>
   </div>
 </template>
